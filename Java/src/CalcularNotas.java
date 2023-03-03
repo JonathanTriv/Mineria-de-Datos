@@ -6,7 +6,7 @@ public class CalcularNotas {
         double corte1,corte2,corte3,notasfinal;
         int estudiantes;
 
-        System.out.println("Cuntos estudaintes desean conocer su nota: ");
+        System.out.println("Cuntos estudaintes desean conocer su nota : ");
         estudiantes = entrada.nextInt();
 
         for (int i = 1;i<=estudiantes;i++) {

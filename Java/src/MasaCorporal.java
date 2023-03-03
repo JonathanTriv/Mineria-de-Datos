@@ -6,7 +6,7 @@ public class MasaCorporal {
         double peso,altura,masaCorporal;
 
 
-        System.out.println("Digita tu altura en metros: ");
+        System.out.println("Digita tu altura en metros(m): ");
         altura = entrada.nextDouble();
         while (altura > 2.10 || altura < 1.4){
                 System.out.println("Digita una altura valida: ");

@@ -13,7 +13,7 @@ public class MenuClase {
             System.out.println("2. Calcular Notas");
             System.out.println("3. Salir");
 
-            System.out.println("Ingresa una Opcion: ");
+            System.out.println("Ingresa una Opcion : ");
             opc = entrada.nextInt();
 
 
